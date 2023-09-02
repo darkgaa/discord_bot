@@ -181,4 +181,4 @@ async def on_command_error(ctx, error):
 
 
 
-bot.run('MTEwMTM5MTcwNjYwOTQxODI3MQ.GQkRBR.Hc_v0OiH2c1CW6kfAN222zkc1PXxcvps_WrmYw') #토큰
+bot.run('토큰') #토큰
